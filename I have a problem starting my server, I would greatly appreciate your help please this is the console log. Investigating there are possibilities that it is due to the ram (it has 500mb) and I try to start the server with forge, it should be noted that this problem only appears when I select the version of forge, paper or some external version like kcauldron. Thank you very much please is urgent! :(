@@ -1,0 +1,14 @@
+23.04 14:15:05 [Server] INFO /run.sh: line 31: 18643 Killed                  /monitor.sh "$PID" "$USER"
+23.04 14:15:04 [Server] INFO Process 18642 detected
+23.04 14:15:04 [Server] INFO Process 18642 dead!
+23.04 14:15:04 [Server] INFO at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.main(ServerLaunchWrapper.java:34)
+23.04 14:15:04 [Server] INFO at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.run(ServerLaunchWrapper.java:52)
+23.04 14:15:04 [Server] INFO at java.base/java.lang.Class.forName(Class.java:398)
+23.04 14:15:04 [Server] INFO at java.base/java.lang.Class.forName0(Native Method)
+23.04 14:15:04 [Server] INFO at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+23.04 14:15:04 [Server] INFO at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:178)
+23.04 14:15:04 [Server] INFO at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:581)
+23.04 14:15:04 [Server] INFO You will need to add them to your server before FML and Forge will run successfully.java.lang.ClassNotFoundException: net.minecraft.launchwrapper.Launch
+23.04 14:15:04 [Server] INFO We appear to be missing one or more essential library files.
+23.04 14:15:03 [Server] INFO OpenJDK 64-Bit Server VM warning: Option UseConcMarkSweepGC was deprecated in version 9.0 and will likely be removed in a future release.
+23.04 14:16:06 [Server] INFO /usr/bin/java $VARS $@
